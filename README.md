@@ -1,2 +1,2 @@
 # git-practice
-aiueo
+aiueoaiueo
