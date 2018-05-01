@@ -1,3 +1,4 @@
 # git-practice
 
-ty 
+ty lol
+ gg aaa
